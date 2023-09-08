@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Welcome to my GitHub profile! I'm on an exciting journey as a career changer, transitioning into the world of Full Stack Engineering.
+Welcome to my GitHub profile!
 
 ```java
 class SoftwareEngineer {
@@ -22,8 +22,6 @@ class SoftwareEngineer {
     }
 }
 ```
-
-With a background in tech research and network infrastructure, I'm now exploring the dynamic realm of full-stack application development.
 
 I'm proficient in various programming languages, including Java (just the coffee ☕), JavaScript, and Python, and I'm actively working with full stack technologies such as MERN (MongoDB, Express.js, React, Node.js) to build interactive web applications.
 
