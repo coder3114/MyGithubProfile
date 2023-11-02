@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi
 
 Welcome to my GitHub profile!
 
@@ -12,11 +12,11 @@ public class SoftwareEngineer {
     private String[] hobbies;
 
     public SoftwareEngineer() {
-        this.name = "Angie Yang";
-        this.role = "Aspiring Full Stack Engineer";
-        this.languages = {"Java", "JavaScript", "Python", "SQL", "Mandarin", "Cantonese"};
-        this.techStack = {"MongoDB", "Express.js", "React", "Node.js", "Spring Boot", "Angular"};
-        this.hobbies = {"Hot Yoga/Pilates", "Lego", rReading", "learning new things"};
+        name = "Angie Yang";
+        role = "Aspiring Full Stack Engineer";
+        languages = {"Java", "JavaScript", "Python", "SQL", "Mandarin", "Cantonese"};
+        techStack = {"MongoDB", "Express.js", "React", "Node.js", "Spring Boot", "Angular"};
+        hobbies = {"hot yoga/Pilates", "Lego", reading", "learning new things"};
     }
 
     public void sayHi() {
@@ -36,7 +36,7 @@ public class SoftwareEngineer {
 
 ```
 
-I'm proficient in various programming languages, including Java (just the coffee ☕), JavaScript, and Python, and I'm actively working with full stack technologies such as MERN (MongoDB, Express.js, React, Node.js) to build interactive web applications.
+I'm proficient in various programming languages, including Java (just the coffee ☕), JavaScript, Python and SQL, and I'm actively working with full stack technologies such as MERN (MongoDB, Express.js, React, Node.js) to build interactive web applications.
 
 ## 📅 Schedule a Meeting
 
