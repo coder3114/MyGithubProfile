@@ -16,7 +16,7 @@ public class SoftwareEngineer {
         role = "Aspiring Full Stack Engineer";
         languages = {"Java", "JavaScript", "Python", "SQL", "Mandarin", "Cantonese"};
         techStack = {"MongoDB", "Express.js", "React", "Node.js", "Spring Boot", "Angular"};
-        hobbies = {"hot yoga/Pilates", "Lego", reading", "learning new things"};
+        hobbies = {"hot yoga/Pilates", "Lego", "reading", "learning new things"};
     }
 
     public void sayHi() {
@@ -36,7 +36,8 @@ public class SoftwareEngineer {
 
 ```
 
-I'm proficient in various programming languages, including Java (just the coffee ☕), JavaScript, Python and SQL, and I'm actively working with full stack technologies such as MERN (MongoDB, Express.js, React, Node.js) to build interactive web applications.
+I'm proficient in various programming languages, including Java (just the coffee ☕), JavaScript, Python and SQL, etc. 
+I'm actively working with full stack technologies such as MERN (MongoDB, Express.js, React, Node.js), Sprint Boot and Angular to build interactive web applications.
 
 ## 📅 Schedule a Meeting
 
